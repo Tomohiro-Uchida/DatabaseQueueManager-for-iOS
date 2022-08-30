@@ -30,6 +30,7 @@ Specially dsigned for Relam of Tomohiro Uchida
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '15.0'
+  s.swift_version = '4.0'
 
   s.source_files = 'Sources/DatabaseQueueManager/*.swift'
   
