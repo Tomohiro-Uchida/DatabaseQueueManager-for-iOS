@@ -22,7 +22,7 @@ Database order manager.
 Specially dsigned for Relam of Tomohiro Uchida
                        DESC
 
-  # s.homepage         = 'https://github.com/Tomohiro-Uchida-iOS/DatabaseQueueManager'
+  s.homepage         = 'https://github.com/Tomohiro-Uchida-iOS/DatabaseQueueManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Tomohiro Uchida' => 'uchida001tmhr@icloud.com' }
