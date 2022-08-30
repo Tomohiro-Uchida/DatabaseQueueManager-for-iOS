@@ -31,7 +31,7 @@ Specially dsigned for Relam of Tomohiro Uchida
 
   s.ios.deployment_target = '15.0'
 
-  s.source_files = 'DatabaseQueueManager/Sources/DatabaseQueueManager/*'
+  s.source_files = 'DatabaseQueueManager/Sources/DatabaseQueueManager/*.swift'
   
   # s.resource_bundles = {
   #   'DatabaseQueueManager' => ['DatabaseQueueManager/Assets/*.png']
