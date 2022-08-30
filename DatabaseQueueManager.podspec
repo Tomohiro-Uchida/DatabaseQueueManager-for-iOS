@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 Database order manager.
+Specially dsigned for Relam of Tomohiro Uchida
                        DESC
 
   s.homepage         = 'https://github.com/Tomohiro-Uchida-iOS/DatabaseQueueManager'
@@ -30,7 +31,7 @@ Database order manager.
 
   s.ios.deployment_target = '15.0'
 
-  s.source_files = 'DatabaseQueueManager/Classes/**/*'
+  s.source_files = 'DatabaseQueueManager/Sources/DatabaseQueueManager/*'
   
   # s.resource_bundles = {
   #   'DatabaseQueueManager' => ['DatabaseQueueManager/Assets/*.png']
