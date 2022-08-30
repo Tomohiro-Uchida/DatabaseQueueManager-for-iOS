@@ -1,3 +1,3 @@
 # DatabaseQueueManager
 
-A description of this package.
+Database order manager.
