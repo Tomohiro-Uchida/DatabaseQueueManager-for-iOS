@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DatabaseQueueManager'
-  s.version          = 'v1.0.0'
+  s.version          = 'v1.0.1'
   s.summary          = 'Database order manager.'
 
 # This description is used to generate tags and improve search results.
