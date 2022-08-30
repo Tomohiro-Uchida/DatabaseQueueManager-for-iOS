@@ -38,6 +38,6 @@ Specially dsigned for Relam of Tomohiro Uchida
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'Foundation', 'Realm'
+  s.frameworks = 'Foundation', 'RealmSwift'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
