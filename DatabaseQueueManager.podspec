@@ -31,13 +31,13 @@ Specially dsigned for Relam of Tomohiro Uchida
 
   s.ios.deployment_target = '15.0'
 
-  s.source_files = 'DatabaseQueueManager/Sources/DatabaseQueueManager/*.swift'
+  s.source_files = 'Sources/DatabaseQueueManager/*.swift'
   
   # s.resource_bundles = {
   #   'DatabaseQueueManager' => ['DatabaseQueueManager/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'Foundation', 'RealmSwift'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
