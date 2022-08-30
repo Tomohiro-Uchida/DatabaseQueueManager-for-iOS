@@ -40,5 +40,5 @@ Specially dsigned for Relam of Tomohiro Uchida
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.ios.frameworks = 'SwiftUI', 'RealmSwift'
-  s.dependency 'Realm', '~> 10.28.6'
+  s.dependency 'RealmSwift', '~> 10.28.6'
 end
