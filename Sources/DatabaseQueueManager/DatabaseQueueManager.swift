@@ -17,6 +17,10 @@ public class DatabaseQueueManager {
     }
     
     var databaseQueue:[DatabaseQueue] = []
+    
+    public func initQueue() {
+        databaseQueue.removeAll()
+    }
 
     public func insertQueue(at: Int, entity:Object) {
         let element = DatabaseQueue()
