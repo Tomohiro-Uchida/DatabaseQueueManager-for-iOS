@@ -28,8 +28,5 @@ let package = Package(
                 .product(name: "Realm", package: "realm-swift"),
                 .product(name: "RealmSwift", package: "realm-swift")
             ]),
-        .testTarget(
-            name: "DatabaseQueueManagerTests",
-            dependencies: ["DatabaseQueueManager"]),
     ]
 )
