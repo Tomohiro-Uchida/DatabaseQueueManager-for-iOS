@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DatabaseQueueManager'
-  s.version          = '1.6.0'
+  s.version          = '1.7.0'
   s.summary          = 'Database order manager.'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Specially dsigned for Relam of Tomohiro Uchida
   s.source           = { :git => 'https://github.com/Tomohiro-Uchida-iOS/DatabaseQueueManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '15.5'
+  s.ios.deployment_target = '15.0'
   s.swift_version = '5.0.0'
 
   s.source_files = 'Sources/DatabaseQueueManager/*.swift'
